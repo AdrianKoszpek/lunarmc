@@ -59,6 +59,8 @@ Games:
   - Parkour which gets you in-game currency.
 - Duels
   - 1v1
+  - OP Kits
+  - Normal Kits
 - Free For All
 
 Features:
