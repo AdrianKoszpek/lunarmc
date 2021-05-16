@@ -176,22 +176,22 @@ A cosmetics and Crate based system.
 
 ### Original Credits
 Original credits from 2019
- Adam       - Ideas, Building & Quality Control
- Daisy      - Ideas, Building & Quality Control
- Lewie      - Ideas, Beta Testing, Social Media, Marketing & Building
- Eirmas     - Web Dev
- Andrew     - Web Dev
- SzDave     - Web Dev & Beta Testing
- Chris      - Beta Testing & Buidling
- Cipri      - Beta Testing & Building
- Jacquelyn  - Beta Testing & Building
- Krystian   - Beta Testing
- Kacper     - Beta Testing
- Dominik    - Beta Testing
- Lauren     - Beta Testing
- Dave       - Beta Testing
- Wolf       - Beta Testing
- Vaediirn   - Beta Testing
+- Adam       - Ideas, Building & Quality Control
+-  Daisy      - Ideas, Building & Quality Control
+-  Lewie      - Ideas, Beta Testing, Social Media, Marketing & Building
+-  Eirmas     - Web Dev
+-  Andrew     - Web Dev
+-  SzDave     - Web Dev & Beta Testing
+-  Chris      - Beta Testing & Buidling
+-  Cipri      - Beta Testing & Building
+-  Jacquelyn  - Beta Testing & Building
+-  Krystian   - Beta Testing
+-  Kacper     - Beta Testing
+-  Dominik    - Beta Testing
+-  Lauren     - Beta Testing
+-  Dave       - Beta Testing
+-  Wolf       - Beta Testing
+-  Vaediirn   - Beta Testing
 
  ~ Helped before Release ❤  
 
