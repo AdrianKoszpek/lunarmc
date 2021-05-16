@@ -173,3 +173,28 @@ A cosmetics and Crate based system.
 ![2018-01-27_21 59 43](https://user-images.githubusercontent.com/47070055/118381893-a1b50500-b5e7-11eb-830f-6c5f7263a018.png)
 ![2019-02-10_17 55 47](https://user-images.githubusercontent.com/47070055/118381897-a4aff580-b5e7-11eb-9c8d-5d1880206754.png)
 ![2019-03-29_19 53 14](https://user-images.githubusercontent.com/47070055/118381902-bb564c80-b5e7-11eb-9a2b-a3c0a9d3cee4.png)
+
+### Original Credits
+Original credits from 2019
+ Adam       - Ideas, Building & Quality Control
+ Daisy      - Ideas, Building & Quality Control
+ Lewie      - Ideas, Beta Testing, Social Media, Marketing & Building
+ Eirmas     - Web Dev
+ Andrew     - Web Dev
+ SzDave     - Web Dev & Beta Testing
+ Chris      - Beta Testing & Buidling
+ Cipri      - Beta Testing & Building
+ Jacquelyn  - Beta Testing & Building
+ Krystian   - Beta Testing
+ Kacper     - Beta Testing
+ Dominik    - Beta Testing
+ Lauren     - Beta Testing
+ Dave       - Beta Testing
+ Wolf       - Beta Testing
+ Vaediirn   - Beta Testing
+
+ ~ Helped before Release ❤  
+
+Made with love by Exenal.
+
+Thank you to all of you who have contributed and helped Lunar. ❤ 
