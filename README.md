@@ -69,6 +69,8 @@ Features:
 - Game Selector, Lobby Selector
 - Rank based color GUIs
 - Teleport
+- Boss bars for messages
+- Action bars for messages 
 - Social Block, Friends etc..
 - Scoreboards, Ranks, Reports
 - Quests, Custom ban system
