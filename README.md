@@ -2,7 +2,7 @@
 A Minecraft Minigame server network made by me, from 2017-2020.
 Coded in Java + SK hybrid.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y6Q16lrtDFc/0.jpg)](https://www.youtube.com/watch?v=y6Q16lrtDFc)
+[![Youtube Video](https://img.youtube.com/vi/y6Q16lrtDFc/0.jpg)](https://www.youtube.com/watch?v=y6Q16lrtDFc)
 
 ### Lobby 
 ![2019-05-05_18 10 19](https://user-images.githubusercontent.com/47070055/118381780-7e3d8a80-b5e6-11eb-9f8a-2387f1d6cf6c.png)
