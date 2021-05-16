@@ -49,7 +49,10 @@ Games:
 - Free For All
 
 Features:
-- Cosmetics
+- Cosmetics (hundreds)
+- Crate System (with working payment system)
+- Lobby System (more than one lobby)
+- Game Selector, Lobby Selector
 - Rank based color GUIs
 - Teleport
 - Social Block, Friends etc..
