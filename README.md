@@ -4,8 +4,14 @@
 
 
 A Minecraft Minigame server network made by me, from 2017-2020.
-Coded in Java + SK hybrid. The project has been abandoned.
+Coded in Java + SK hybrid. The project has been abandoned. (MC 1.8-1.15)
 ## Youtube Video: https://www.youtube.com/watch?v=y6Q16lrtDFc
+
+App:
+- Minefox App working with Server (thanks to WaterIsFake)
+
+LunaProxy:
+- Developmental, and experimental bedrock compatibility.
 
 Games:
 - Player Cloud Servers
@@ -17,6 +23,7 @@ Games:
   - Title messages to see what you enter
   - Scoreboards
 - Realms
+  - Realms Resource Pack
   - Guilds Shops
   - Realms
   - Raids
@@ -30,6 +37,8 @@ Games:
   - Effects
   - World Reset
   - Scoreboards
+  - Schematics
+  - Working Defense Towers
   - Guilds Player Shops
   ... hundreds more
 - Kingdoms (2 maps)
