@@ -105,6 +105,7 @@ Features:
 - Join message and Join effects
 - Anti-VPN
 - Anti-AFK
+- Anti-Swear
 - Anti-Spam
 - Gamemodes, Ping Checker
 - Profiles, Time, Core, Tablists
