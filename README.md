@@ -75,7 +75,10 @@ Features:
 - Boss bars for messages
 - Action bars for messages 
 - Social Block, Friends etc..
-- Scoreboards, Ranks, Reports
+- Scoreboards (Animated)
+- Ranks (assist, mod, owner, admin, exotic, member, helper, builder)
+- Custom permission system across whole network discord,minecraft,website
+- Custom Owner/Admin login system on website
 - Quests, Custom ban system
 - Preferences (tens of preferences - based on rank)
 - Help System (/help) gui with tens of commands.
