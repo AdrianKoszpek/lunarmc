@@ -94,7 +94,8 @@ Web:
 ![2020-08-18_15 38 53](https://user-images.githubusercontent.com/47070055/118381911-c6a97800-b5e7-11eb-8041-ab268cb126ee.png)
 
 ### Realms 
-A faction/raid based game, with Sky Islands for Guilds/Private player bases.
+A faction/raid based game, with Sky Islands for Guilds/Private player bases. Shops, 32x32/64x64 islands, 3D Legendary Weapons,
+TNT Gravity, Survival World, Tutorial World, Quests, Custom Enchants, Shop System and so much more. 
 
 https://user-images.githubusercontent.com/47070055/118381655-0458d180-b5e5-11eb-90eb-f38377a8dd5f.mp4
 
