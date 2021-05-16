@@ -62,6 +62,7 @@ Games:
 - Free For All
 
 Features:
+- GUI System
 - Cosmetics (hundreds)
 - Crate System (with working payment system)
 - Lobby System (more than one lobby)
@@ -88,7 +89,13 @@ Features:
 - Console Commands
 - Server finder
 - News, Item Summoner
-- Broadcasting
+- Broadcasting and Announcements
+- Mail System from Java Server
+- RAM and Analytics for Staff
+- Sounds and More...
+- Easter Eggs added.
+- Join message and Join effects
+- Anti-VPN
 - Gamemodes, Ping Checker
 - Profiles, Time, Core, Tablists
 ... hundreds more.
@@ -96,6 +103,8 @@ Features:
 Web:
 - Fully functional Store
 - Support, Staff, Players and Leaderboards
+
+Anti Cheat not included.
 
 ### Lobby 
 ![2019-05-05_18 10 19](https://user-images.githubusercontent.com/47070055/118381780-7e3d8a80-b5e6-11eb-9f8a-2387f1d6cf6c.png)
