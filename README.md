@@ -1,4 +1,8 @@
 # lunarmc / minefox
+
+![icon](https://user-images.githubusercontent.com/47070055/118382278-a24f9a80-b5eb-11eb-983a-ab7035e21f37.png)
+
+
 A Minecraft Minigame server network made by me, from 2017-2020.
 Coded in Java + SK hybrid. The project has been abandoned.
 ## Youtube Video: https://www.youtube.com/watch?v=y6Q16lrtDFc
