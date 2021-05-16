@@ -8,7 +8,8 @@ Coded in Java + SK hybrid.
 
 ### Realms 
 A faction/raid based game, with Sky Islands for Guilds/Private player bases.
-https://user-images.githubusercontent.com/47070055/118381674-3702ca00-b5e5-11eb-814c-290bc5835393.mp4
+![2019-02-28_19 55 22](https://user-images.githubusercontent.com/47070055/118381655-0458d180-b5e5-11eb-90eb-f38377a8dd5f.mp4)
+
 
 ### Game Lobby 
 ![2019-02-28_19 55 22](https://user-images.githubusercontent.com/47070055/118381773-5bab7180-b5e6-11eb-90dc-7ff43c4c2da7.png)
