@@ -94,7 +94,7 @@ Features:
 ... hundreds more.
 
 Web:
-- Fully functtional Store
+- Fully functional Store
 - Support, Staff, Players and Leaderboards
 
 ### Lobby 
