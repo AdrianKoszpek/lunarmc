@@ -62,7 +62,8 @@ Features:
 - Help System (/help) gui with tens of commands.
 - Nametags (rank based, above head/tablist/chat)
 - Messaging Custom (msg/whisper/tell) with sound
-- Help, economy, discord linking
+- Economy
+- Fully working Discord Linker (with a lot of features)
 - MySQL and Full network based data saving
 - Commands, Chat Prefixes, API, 2FA
 - Lobby Parkour
