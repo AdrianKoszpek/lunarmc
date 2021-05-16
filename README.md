@@ -1,6 +1,6 @@
 # lunarmc / minefox
 A Minecraft Minigame server network made by me, from 2017-2020.
-Coded in Java + SK hybrid.
+Coded in Java + SK hybrid. The project has been abandoned.
 ## Youtube Video: https://www.youtube.com/watch?v=y6Q16lrtDFc
 
 Games:
