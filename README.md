@@ -58,7 +58,10 @@ Features:
 - Social Block, Friends etc..
 - Scoreboards, Ranks, Reports
 - Quests, Custom ban system
-- Preferences, nametags, messaging
+- Preferences (tens of preferences - based on rank)
+- Help System (/help) gui with tens of commands.
+- Nametags (rank based, above head/tablist/chat)
+- Messaging Custom (msg/whisper/tell) with sound
 - Help, economy, discord linking
 - MySQL and Full network based data saving
 - Commands, Chat Prefixes, API, 2FA
