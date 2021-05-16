@@ -23,7 +23,7 @@ Games:
   - Title messages to see what you enter
   - Scoreboards
 - Realms
-  - Realms Resource Pack
+  - Realms Resource Pack 3D
   - Guilds Shops
   - Realms
   - Raids
@@ -33,6 +33,7 @@ Games:
   - Events
   - Enchants
   - Guilds effects
+  - Sockets
   - Legendary Weapons
   - Effects
   - World Reset
@@ -100,15 +101,39 @@ Features:
 - Easter Eggs added.
 - Join message and Join effects
 - Anti-VPN
+- Anti-AFK
+- Anti-Spam
 - Gamemodes, Ping Checker
 - Profiles, Time, Core, Tablists
+- Friends Actions
+- Friends Playtime and other Profile Info 
+- Cooldown actionbars
+- Config files
+- Rewards
+- Player Reports
+- Auto Server Maker (planned?)
+- Pay command
+- Tips
+- VIP Areas
+- Death Effects
+- Private/Public profiles working accross discord-minecraft-website
+- Art and other content
+- Documents
+- Voting System
+- Error Logs (discord)
+- Warning Logs (discord
+- Hurt Sounds (blaze)
+- Bungee Sockets
+- Polls
+- Staff Chat (planned?)
+- EXP Loading/Player amount
 ... hundreds more.
 
 Web:
 - Fully functional Store
 - Support, Staff, Players and Leaderboards
 
-Anti Cheat not included.
+Anti Cheat not included. (NoCheatPlus used)
 
 ### Lobby 
 ![2019-05-05_18 10 19](https://user-images.githubusercontent.com/47070055/118381780-7e3d8a80-b5e6-11eb-9f8a-2387f1d6cf6c.png)
