@@ -3,6 +3,80 @@ A Minecraft Minigame server network made by me, from 2017-2020.
 Coded in Java + SK hybrid.
 ## Youtube Video: https://www.youtube.com/watch?v=y6Q16lrtDFc
 
+Games:
+- Player Cloud Servers
+- Survival
+  - Survival Map
+  - Beds to make your own territory
+  - Wild command
+  - Lobby command
+  - Title messages to see what you enter
+  - Scoreboards
+- Realms
+  - Guilds Shops
+  - Realms
+  - Raids
+  - Menus
+  - Leaderboards
+  - Invites
+  - Events
+  - Enchants
+  - Guilds effects
+  - Legendary Weapons
+  - Effects
+  - World Reset
+  - Scoreboards
+  - Guilds Player Shops
+  ... hundreds more
+- Kingdoms (2 maps)
+  - Ninja Class (5 abilities)
+  - Warrior Class (5 abilities)
+  - Archer Class (5 abilities)
+  - Mage Class (5 abilities)
+  Unlockable Classes:
+  - Necro (5 abilities)
+  - Pyro (5 abilities)
+- Minefox Royale
+  - 32 player game
+  - 1 Big Map
+  - Random chests around map
+  - Border
+  - Map for players 
+- Lobby Games
+  - Parkour which gets you in-game currency.
+- Duels
+  - 1v1
+- Free For All
+
+Features:
+- Cosmetics
+- Rank based color GUIs
+- Teleport
+- Social Block, Friends etc..
+- Scoreboards, Ranks, Reports
+- Quests, Custom ban system
+- Preferences, nametags, messaging
+- Help, economy, discord linking
+- MySQL and Full network based data saving
+- Commands, Chat Prefixes, API, 2FA
+- Lobby Parkour
+- Double Jump
+- Admin startable games
+- Sending to Server
+- Fun, Lobby/Hub
+- Incognito
+- Console Commands
+- Server finder
+- News, Item Summoner
+- Broadcasting
+- Gamemodes, Ping Checker
+- Profiles, Time, Core, Tablists
+... hundreds more.
+
+Web:
+- Fully functtional Store
+- Support, Staff, Players and Leaderboards
+
 ### Lobby 
 ![2019-05-05_18 10 19](https://user-images.githubusercontent.com/47070055/118381780-7e3d8a80-b5e6-11eb-9f8a-2387f1d6cf6c.png)
 ![2019-04-23_18 00 35](https://user-images.githubusercontent.com/47070055/118381782-81387b00-b5e6-11eb-8b23-77d322da5435.png)
