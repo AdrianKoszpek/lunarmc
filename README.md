@@ -130,6 +130,7 @@ Features:
 - Polls
 - Staff Chat (planned?)
 - EXP Loading/Player amount
+- Game Compass (Spectator)
 ... hundreds more.
 
 Web:
