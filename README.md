@@ -66,7 +66,7 @@ Games:
 
 Features:
 - GUI System
-- Cosmetics (hundreds)
+- Cosmetics (hundreds) (gadgets, particles, wings, skins and more)
 - Crate System (with working payment system)
 - Lobby System (more than one lobby)
 - Game Selector, Lobby Selector
