@@ -4,7 +4,7 @@
 
 
 A Minecraft Minigame server network made by me, from 2017-2020.
-Coded in Java + SK hybrid, Python, PHP. The project has been abandoned and left unfinished. (MC 1.8-1.15)
+Coded in Skript, Python, PHP. The project has been abandoned and left unfinished. (MC 1.8-1.15)
 ## Youtube Video: https://www.youtube.com/watch?v=y6Q16lrtDFc (2018 older version)
 
 Experimental App:
