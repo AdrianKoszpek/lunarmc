@@ -180,7 +180,7 @@ A cosmetics and Crate based system.
 Original credits from 2019
 - Adam       - Ideas, Building & Quality Control
 -  Daisy      - Ideas, Building & Quality Control
--  Lewie      - Ideas, Beta Testing, Social Media, Marketing & Building, Trailer Clips
+-  [Lu](https://github.com/hiluw/)      - Ideas, Beta Testing, Social Media, Marketing & Building, Trailer Clips
 -  Eirmas     - Web Dev
 -  Andrew     - Web Dev
 -  SzDave     - Web Dev & Beta Testing
