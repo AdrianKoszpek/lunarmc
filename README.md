@@ -166,7 +166,7 @@ A hungergames/royale based game, with custom content.
 ### Duels
 A mini PVP based game 1v1.
 
-![2019-04-28_20 38 23](https://user-images.githubusercontent.com/47070055/118381884-94981600-b5e7-11eb-9e8f-2c234226d78e.png)
+![2019-04-28_20 38 23](https://user-images.githubusercontent.com/47070055/149203307-93754ae5-124a-49d3-be93-dce756d0c44e.png)
 
 ### Cosmetics
 A cosmetics and Crate based system.
