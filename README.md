@@ -8,6 +8,8 @@ Coded in Skript/Java Hybrid, Python, PHP. The project has been stopped. (MC 1.8-
 The server has had concurrent players and received revenue over the years. This project taught me 
 important teamwork and communication skills as well as leadership skills on how to manage a business.
 
+  "Adrian was great to work with and performed really well as a leader" - Lu
+
 ## Youtube Video: https://www.youtube.com/watch?v=y6Q16lrtDFc (2018 older version)
 
 Experimental App:
