@@ -186,6 +186,7 @@ Original credits from 2019
 - Adam       - Ideas, Building & Quality Control
 -  Daisy      - Ideas, Building & Quality Control
 -  [Lu](https://github.com/hiluw/)      - Ideas, Beta Testing, Social Media, Marketing & Building, Trailer Clips
+-  [Luca](https://github.com/DurpDaCrooze) - Ideas, Beta Testing, Marketing & Building
 -  Eirmas     - Web Dev
 -  Andrew     - Web Dev
 -  SzDave     - Web Dev & Beta Testing
